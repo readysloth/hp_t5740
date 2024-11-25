@@ -1,3 +1,4 @@
 #!/bin/sh
 
+pcmanfm --desktop &
 exec /usr/bin/matchbox-session
